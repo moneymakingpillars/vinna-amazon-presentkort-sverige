@@ -17,7 +17,7 @@ a:hover {color:#cc0000;text-decoration:underline}
 #wrap h5 {font-size:1.18em;padding:15px 0}
 #wrap ul li {line-height:1.5em}
 #wrap ol li {line-height:1.5em}
-#header {background:#fff url('img/header.jpg') top left no-repeat;height:90px;width:100%;border-bottom:#bbb 1px solid;margin:0;padding:0}
+#header {background:#fff;height:20px;width:100%;border-bottom:#bbb 1px solid;margin:0;padding:0}
 #nav ul {margin:6px 0 16px;padding:0}
 @media screen and (max-width:800px) {#nav ul li {display:block;text-align:right;line-height:1.8em}}
 @media screen and (min-width:801px) {#nav ul li {display:inline}}
