@@ -2,7 +2,7 @@
 body {font-size:16px;font-size:110%;font-family:Verdana,Arial,Sans-Serif}
 img {width:auto;max-width:100%;height:auto}
 a,a:visited {color:#0000cc}
-a:hover {color:#cc0000;text-decoration:underline}
+a:hover {color:#006600;text-decoration:underline}
 .alignright {float:right;padding:6px 0 6px 10px}
 .alignleft {float:left;padding:6px 10px 6px 0}
 .aligncenter {display:block;text-align:center;margin:0 auto;padding:0.2em}
@@ -11,6 +11,7 @@ a:hover {color:#cc0000;text-decoration:underline}
 #wrap {width:94%;max-width:1100px;margin:0 auto;padding:0}
 #wrap p {font-size:1em;text-align:justify;line-height:1.5em}
 #wrap h1 {font-size:1.4em;padding:15px 0 20px}
+#wrap h1 a,a:hover {text-decoration:none}
 #wrap h2 {font-size:1.3em;padding:15px 0}
 #wrap h3 {font-size:1.25em;padding:15px 0}
 #wrap h4 {font-size:1.22em;padding:15px 0}
@@ -31,4 +32,4 @@ a:hover {color:#cc0000;text-decoration:underline}
 @media screen and (max-width:800px) {#foot ul li {font-size:1em;line-height:2em;}}
 @media screen and (min-width:801px) {#foot ul li {font-size:0.9em;line-height:1.4em;}}
 #foot ul li,#foot ul li a {list-style-type:none;display:block;margin:0 0 2px;padding:0 5px}
-#foot ul li a:hover {color:#cc0000;text-decoration:underline}
+#foot ul li a:hover {color:#006600;text-decoration:underline}
